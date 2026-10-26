@@ -159,3 +159,6 @@ footer nav{display:flex;gap:24px;flex-wrap:wrap}
 .cs-btns{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;padding:56px var(--pad) 72px}
 .cs+footer{margin-top:0}
 .cs-top{padding:20px var(--pad)}.cs-top .btn{border:0;background:none;padding:6px 0;font-size:15px;color:#fff}.cs-top .btn:hover{background:none;color:var(--pink)}
+.cs.y{background:#08060f}
+.stack video{display:block;width:100%;height:auto}.stack .vid{max-width:1400px;margin:0 auto}
+.fg{display:block}.fg:hover img{opacity:.93}
