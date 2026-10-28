@@ -1,0 +1,578 @@
+{
+ "settings": {
+  "telegram": "https://t.me/vikaprokkk",
+  "instagram": "https://www.instagram.com/vidiprok?vrfl=MXB2MGVqcXJvbzBuOA%3D%3D&utm_source=qr",
+  "vk": "https://vk.ru/vidiprok",
+  "heroTags": [
+   "Сайты",
+   "Соцсети",
+   "Упаковка бизнеса"
+  ],
+  "stats": [
+   {
+    "value": "30+",
+    "label": "разработанных сайтов под ключ"
+   },
+   {
+    "value": "100+",
+    "label": "дизайнов визиток и другой полиграфической продукции"
+   },
+   {
+    "value": "1 млн",
+    "label": "и более охвата аудитории через наши сайты"
+   }
+  ],
+  "priceNote": "Итоговая цена и сроки считаются индивидуально после брифинга"
+ },
+ "services": [
+  {
+   "title": "Упаковка бизнеса в интернете",
+   "short": "Сайт, соцсети и единый стиль под ключ",
+   "icon": "pack",
+   "description": "Комплексно оформляем ваш бизнес в интернете от сайта до социальных сетей. Создаём единый стиль, чтобы ваш бизнес выглядел профессионально, был понятен клиентам и вызывал доверие.",
+   "audience": "Предпринимателям, у которых уже есть бизнес, но ещё нет полноценного присутствия в интернете."
+  },
+  {
+   "title": "Упаковка бизнеса самостоятельно: пошаговый план",
+   "short": "Индивидуальный план под вашу нишу и конкурентов",
+   "icon": "plan",
+   "description": "Хотите развивать бизнес в интернете, но не знаете, с чего начать? Мы проанализируем вашу нишу и конкурентов, составим индивидуальный план упаковки бизнеса с учётом ваших задач и аудитории. Вы поймёте, какие инструменты нужны именно вам. Не будете тратить время и деньги на лишнее.",
+   "audience": "Предпринимателям, экспертам и специалистам, которые хотят самостоятельно упаковать бизнес в интернете, но не знают, какие решения выбрать."
+  },
+  {
+   "title": "Сайт под ключ",
+   "short": "Современный сайт, который приводит клиентов",
+   "icon": "site",
+   "description": "Разрабатываем современные сайты, которые помогают представить ваш бизнес, рассказать о преимуществах и привести посетителя к целевому действию: заявке, покупке или обращению.",
+   "audience": "Предпринимателям, экспертам и специалистам, которым нужен сайт для запуска рекламы, продвижения услуги или товара, презентации компании либо отдельного проекта."
+  },
+  {
+   "title": "Дизайн полиграфии",
+   "short": "Визитки, меню, сертификаты и прайс-листы",
+   "icon": "print",
+   "description": "Разрабатываем стильные и понятные печатные материалы, которые поддерживают образ вашего бизнеса и помогают профессионально представить ваши услуги: от первой визитки до оформления меню и сертификатов.",
+   "audience": "Предпринимателям, компаниям, специалистам и организаторам мероприятий, которым нужны печатные материалы для работы с клиентами, продвижения услуг или оформления мероприятий."
+  },
+  {
+   "title": "Оформление соцсетей",
+   "short": "Узнаваемый образ бизнеса в соцсетях",
+   "icon": "social",
+   "description": "Создаём целостный и узнаваемый образ вашего бизнеса в социальных сетях: от оформления профиля до визуальных шаблонов и рекомендаций по ведению.",
+   "audience": "Экспертам, блогерам, предпринимателям и компаниям, которые хотят оформить профиль с нуля, обновить существующий визуал или выстроить единый стиль для регулярных публикаций."
+  },
+  {
+   "title": "Разработка мобильного приложения",
+   "short": "Удобные интерфейсы для смартфонов и планшетов",
+   "icon": "app",
+   "description": "Проектируем интерфейсы мобильных приложений, в которых удобно ориентироваться и легко выполнять нужные действия. Продумываем структуру, пользовательские сценарии и визуальное оформление, чтобы взаимодействие с приложением было понятным и комфортным.",
+   "audience": "Стартапам, компаниям и предпринимателям, которые планируют запуск собственного приложения или хотят улучшить интерфейс уже существующего продукта."
+  },
+  {
+   "title": "Эл. приглашение",
+   "short": "Онлайн-приглашение для любого события",
+   "icon": "invite",
+   "description": "Создаём стильные онлайн-приглашения, которые передают атмосферу вашего события. Их удобно отправлять гостям в мессенджерах и социальных сетях без печати и лишних хлопот.",
+   "audience": "Для свадьбы, дня рождения, юбилея, корпоратива и любого другого события, которое хочется красиво оформить с самого приглашения."
+  }
+ ],
+ "prices": [
+  {
+   "name": "Сайт под ключ",
+   "term": "от 5 дней",
+   "price": "от 20 000 ₽"
+  },
+  {
+   "name": "Полная упаковка бизнеса",
+   "term": "по запросу",
+   "price": "от 70 000 ₽"
+  },
+  {
+   "name": "Упаковка бизнеса самостоятельно",
+   "term": "3 дня",
+   "oldPrice": "4 900 ₽",
+   "price": "3 490 ₽"
+  },
+  {
+   "name": "Дизайн полиграфии",
+   "term": "от 1 дня",
+   "price": "от 1 500 ₽"
+  },
+  {
+   "name": "Оформление соцсетей",
+   "term": "от 1 дня",
+   "price": "от 3 000 ₽"
+  },
+  {
+   "name": "Мобильное приложение",
+   "term": "по запросу",
+   "price": "по запросу"
+  },
+  {
+   "name": "Эл. приглашение",
+   "term": "от 1 дня",
+   "price": "от 990 ₽"
+  }
+ ],
+ "faq": [
+  {
+   "question": "Сколько делается сайт?",
+   "answer": "Простой сайт от 5 дней. Окончательные сроки рассчитываются индивидуально, после брифинга."
+  },
+  {
+   "question": "Как проходит оплата?",
+   "answer": "Работаем по предоплате, остальное после согласования результата. Детали фиксируем в договоре."
+  },
+  {
+   "question": "Сколько правок входит в стоимость?",
+   "answer": "Несколько кругов правок на каждом этапе. Объём обсуждаем заранее."
+  },
+  {
+   "question": "Нужно ли готовить тексты и фото?",
+   "answer": "Можно прислать свои материалы или поручить это нам."
+  },
+  {
+   "question": "Работаете с клиентами из других городов?",
+   "answer": "Да, всё общение проходит онлайн. Работаем с любыми городами из любых стран."
+  }
+ ],
+ "projects": [
+  {
+   "title": "Опора",
+   "slug": "opora",
+   "description": "Разработка сайта под ключ для девелопера",
+   "cover": "img/opora.webp",
+   "blocks": [
+    {
+     "t": "img",
+     "f": "img/opora/01.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/opora/02.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/opora/03.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/opora/04.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/opora/05.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/opora/06.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/opora/07.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/opora/08.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/opora/09.webp"
+    }
+   ],
+   "bg": "#0e0e0e",
+   "behanceUrl": "https://www.behance.net/gallery/257420535/opora"
+  },
+  {
+   "title": "Travel.Enjoy",
+   "slug": "travel-enjoy",
+   "description": "Разработка сайта под ключ для турагентства",
+   "cover": "img/travel.webp",
+   "link": "https://www.behance.net/gallery/257475047/TRAVELENJOY",
+   "bg": "#0a0a0a",
+   "blocks": [
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/01.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/02.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/03.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/04.webp"
+    },
+    {
+     "t": "vid",
+     "f": "media/travel-enjoy.mp4",
+     "narrow": false
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/05.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/06.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/07.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/08.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/09.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/10.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/11.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/12.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/13.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/travel-enjoy/14.webp"
+    }
+   ]
+  },
+  {
+   "title": "BeachHub",
+   "slug": "beachhub",
+   "description": "Разработка приложения под ключ, разработка дизайна по гайдбуку",
+   "cover": "img/beachhub.webp",
+   "blocks": [
+    {
+     "t": "img",
+     "f": "img/beachhub/s01.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s02.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s03.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s04.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s05.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s06.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s07.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s08.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s09.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s10.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s11.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s12.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s13.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s14.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s15.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/beachhub/s16.webp"
+    }
+   ],
+   "bg": "#080c18",
+   "behanceUrl": "https://www.behance.net/gallery/252850357/BeachHub"
+  },
+  {
+   "title": "Yandex Pet Day",
+   "slug": "yandex-pet-day",
+   "description": "Разработка сайта под ключ для мероприятия Яндекса",
+   "cover": "img/yandex.webp",
+   "blocks": [
+    {
+     "t": "img",
+     "f": "img/yandex/y01.webp"
+    },
+    {
+     "t": "vid",
+     "f": "media/marquee.mp4",
+     "narrow": false
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y02.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y03.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y04.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y05.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y06.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y07.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y08.webp"
+    },
+    {
+     "t": "vid",
+     "f": "media/laptop-scroll.mp4",
+     "narrow": true
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y09.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/yandex/y10.webp"
+    },
+    {
+     "t": "ban",
+     "f": "img/yandex/fig.webp",
+     "url": "https://www.figma.com/proto/SdNOerfzkYmEcE8yOlLzCX/Yandex-Pet-Day-%25D1%2582%25D0%25B5%25D1%2581%25D1%2582%25D0%25BE%25D0%25B2%25D0%25BE%25D0%25B5-%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5?node-id=373-2101&t=DlvpsAWi9rEwI9Ss-1"
+    }
+   ],
+   "bg": "#08060f",
+   "behanceUrl": "https://www.behance.net/gallery/257328129/Yandex-Pet-Day"
+  },
+  {
+   "title": "ЖК Легенда",
+   "slug": "zhk-legenda",
+   "description": "Разработка сайта под ключ для строительной компании",
+   "cover": "img/zhk.webp",
+   "blocks": [
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/01.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/02.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/03.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/04.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/05.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/06.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/07.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/08.webp"
+    },
+    {
+     "t": "emb",
+     "url": "https://kinescope.io/embed/efpHx6fXiRudvrPxaFwNMd"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/09.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/10.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/zhk-legenda/11.webp"
+    }
+   ],
+   "bg": "#1a1a1a",
+   "behanceUrl": "https://www.behance.net/gallery/257416741/zhk-legenda"
+  },
+  {
+   "title": "Nexus",
+   "slug": "nexus",
+   "description": "Разработка сайта под ключ для подключения зарубежных карт",
+   "cover": "img/nexus.webp",
+   "blocks": [
+    {
+     "t": "img",
+     "f": "img/nexus/01.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/02.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/03.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/04.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/05.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/06.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/07.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/08.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/09.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/10.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/11.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/nexus/12.webp"
+    }
+   ],
+   "bg": "#0e0e0e",
+   "behanceUrl": "https://www.behance.net/gallery/257417243/NEXUS"
+  },
+  {
+   "title": "Clam",
+   "slug": "calm",
+   "description": "Разработка сайта под ключ для студии йоги",
+   "cover": "img/Clam.webp",
+   "blocks": [
+    {
+     "t": "img",
+     "f": "img/calm/01.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/02.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/03.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/04.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/05.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/06.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/07.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/08.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/09.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/10.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/11.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/12.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/13.webp"
+    },
+    {
+     "t": "img",
+     "f": "img/calm/14.webp"
+    }
+   ],
+   "bg": "#ffffff",
+   "behanceUrl": "https://www.behance.net/gallery/257417027/Clam"
+  }
+ ]
+}
