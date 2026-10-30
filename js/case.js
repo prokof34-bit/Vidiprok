@@ -1,10 +1,10 @@
 (function(){
 var slug=new URLSearchParams(location.search).get('p')||'',st=document.getElementById('stack'),main=document.getElementById('cs'),e=CMS.esc;
 function fail(){if(slug==='beachhub'||slug==='yandex-pet-day'){location.replace('cases/'+slug+'.html');return}st.innerHTML='<p class="lead" style="padding:64px var(--pad)">Не удалось загрузить кейс.</p>'}
-var G='{"p":*[_type=="project"&&slug.current==$s][0]{title,bg,behanceUrl,"blocks":caseBlocks[]{_type,"img":image.asset->{url,"w":metadata.dimensions.width,"h":metadata.dimensions.height},"vid":file.asset->url,narrow,url}},"s":*[_id=="settings"][0]{telegram}}';
+var G='{"p":*[_type=="project"&&slug.current==$s][0]{title,bg,behanceUrl,seo{title,description,"og":ogImage.asset->url},"blocks":caseBlocks[]{_type,"img":image.asset->{url,"w":metadata.dimensions.width,"h":metadata.dimensions.height},"vid":file.asset->url,narrow,url}},"s":*[_id=="settings"][0]{telegram}}';
 CMS.q(G,{s:slug}).then(function(d){var p=d.p;if(!p||!p.blocks||!p.blocks.length)return fail();
-document.title=p.title+': кейс | VIDIPROK';if(p.bg){main.style.background=p.bg;var m=/^#([0-9a-f]{6})$/i.exec(p.bg);if(m){var n=parseInt(m[1],16),lum=((n>>16)*299+((n>>8)&255)*587+(n&255)*114)/1000;main.classList.toggle('light',lum>150)}}
-function im(b,i){return'<img src="'+e(b.img.url)+'?auto=format" width="'+b.img.w+'" height="'+b.img.h+'" alt="'+e(p.title)+'"'+(i?' loading="lazy"':'')+'>'}
+var sx=p.seo||{};document.title=sx.title||(p.title+': кейс | VIDIPROK');function mt(n,c,a){a=a||'name';var m=document.head.querySelector('meta['+a+'="'+n+'"]');if(!m){m=document.createElement('meta');m.setAttribute(a,n);document.head.appendChild(m)}m.setAttribute('content',c)}if(sx.description)mt('description',sx.description);mt('og:title',document.title,'property');if(sx.description)mt('og:description',sx.description,'property');if(sx.og)mt('og:image',sx.og+'?w=1200&h=630&fit=crop&auto=format','property');if(p.bg){main.style.background=p.bg;var m=/^#([0-9a-f]{6})$/i.exec(p.bg);if(m){var n=parseInt(m[1],16),lum=((n>>16)*299+((n>>8)&255)*587+(n&255)*114)/1000;main.classList.toggle('light',lum>150)}}
+function im(b,i){return'<img src="'+e(b.img.url)+'?auto=format" width="'+b.img.w+'" height="'+b.img.h+'" alt="'+e(p.title+': кейс, слайд '+(i+1))+'"'+(i?' loading="lazy"':'')+'>'}
 st.innerHTML=p.blocks.map(function(b,i){
 if(b._type==='caseImage'&&b.img)return im(b,i);
 if(b._type==='caseVideo'&&b.vid)return'<video'+(b.narrow?' class="vid"':'')+' src="'+e(b.vid)+'" autoplay muted loop playsinline preload="auto"></video>';

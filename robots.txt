@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /studio/
+Disallow: /import/
+
+Sitemap: https://vidiprok.layero.app/sitemap.xml
