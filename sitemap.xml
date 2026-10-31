@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<<<<<<< Updated upstream
 <url><loc>https://vidiprok.layero.app/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://vidiprok.layero.app/uslugi/sozdanie-sajtov-pod-klyuch.html</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://vidiprok.layero.app/uslugi/upakovka-biznesa-v-internete.html</loc><lastmod>2026-10-30</lastmod></url>
@@ -15,4 +16,21 @@
 <url><loc>https://vidiprok.layero.app/cases/zhk-legenda.html</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://vidiprok.layero.app/cases/nexus.html</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://vidiprok.layero.app/cases/calm.html</loc><lastmod>2026-10-30</lastmod></url>
+=======
+<url><loc>https://prokof34-bit.github.io/Vidiprok/</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/uslugi/sozdanie-sajtov-pod-klyuch.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/uslugi/upakovka-biznesa-v-internete.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/uslugi/oformlenie-socsetej.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/uslugi/dizajn-poligrafii.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/uslugi/razrabotka-mobilnyh-prilozhenij.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/uslugi/elektronnye-priglasheniya.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/uslugi/plan-upakovki-biznesa-samostoyatelno.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/cases/opora.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/cases/travel-enjoy.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/cases/beachhub.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/cases/yandex-pet-day.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/cases/zhk-legenda.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/cases/nexus.html</loc></url>
+<url><loc>https://prokof34-bit.github.io/Vidiprok/cases/calm.html</loc></url>
+>>>>>>> Stashed changes
 </urlset>

@@ -1,5 +1,9 @@
 // Смена адреса сайта во всех файлах (canonical, sitemap, robots, JSON-LD).
+<<<<<<< Updated upstream
 // Пример: node tools/set-base.mjs https://vidiprok.layero.app https://vidiprok.ru
+=======
+// Пример: node tools/set-base.mjs https://prokof34-bit.github.io/Vidiprok https://vidiprok.ru
+>>>>>>> Stashed changes
 import fs from 'node:fs'; import path from 'node:path'
 const [, , from, to] = process.argv
 if (!from || !to) { console.log('Использование: node tools/set-base.mjs СТАРЫЙ_АДРЕС НОВЫЙ_АДРЕС'); process.exit(1) }

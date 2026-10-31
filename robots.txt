@@ -1,6 +1,14 @@
 User-agent: *
 Allow: /
+<<<<<<< Updated upstream
 Disallow: /studio/
 Disallow: /import/
 
 Sitemap: https://vidiprok.layero.app/sitemap.xml
+=======
+Disallow: /Vidiprok/studio/
+Disallow: /Vidiprok/import/
+Disallow: /Vidiprok/tools/
+
+Sitemap: https://prokof34-bit.github.io/Vidiprok/sitemap.xml
+>>>>>>> Stashed changes
